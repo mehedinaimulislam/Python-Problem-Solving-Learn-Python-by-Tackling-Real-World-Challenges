@@ -5,7 +5,7 @@
 
 ## Project Details 
 
-This course is mainly for those who are just learning Python programming i.e. know about the basic syntax and structure of Python. In this course I mainly show beginner friendly solutions to 25 problems. In this case I followed the book "Python Crash Course".
+This course is mainly for those who are just learning Python programming i.e. know about the basic syntax and structure of Python. 
 
 The purpose of developing this course is only to share what I am learning with others. I hope this attempt of mine will be useful in your learning of programming. Good luck to you.
 
