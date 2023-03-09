@@ -1,5 +1,5 @@
 
-# Learn Python by Solving 25 Problems 
+# Course Name: Python Problem-Solving: Learn Python by Tackling Real-World Challenges 
 
 
 
